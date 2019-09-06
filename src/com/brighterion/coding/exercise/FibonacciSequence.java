@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 /**
  * @author Char Sahota
  * 
- * This class is to provide Brighterion a coding example of a Fibonacci Sequence.
+ * This class is to provide a coding example of a Fibonacci Sequence.
  * 
  * A Fibonacci Sequence is a series of numbers where the next number is the sum of previous two numbers. 
  * For example 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 etc... 

@@ -1,5 +1,6 @@
 # brighterion
-Coding example for the position of Team Lead at Brighterion.
+
+A Fibonacci Sequence coding example.
 
 How to run:
 1. Using a command prompt (or terminal on MacBook) navigate to the bin directory.
