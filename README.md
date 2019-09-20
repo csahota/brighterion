@@ -6,15 +6,15 @@ How to run:
 1. Using a command prompt (or terminal on MacBook) navigate to the bin directory.
 2. Run the following command line instructions:
 
-	a. java com.brighterion.coding.exercise.FibonacciSequence 10
+	a. Will give a favorable result
 	
-		- this will give a favorable result
+		java com.brighterion.coding.exercise.FibonacciSequence 10
 		
-	b. java com.brighterion.coding.exercise.FibonacciSequence abc
+	b. Will print an error message prompting to try again with a valid number
 	
-		- this will print an error message prompting to try again with a valid number
+		java com.brighterion.coding.exercise.FibonacciSequence abc
 		
-	c. java com.brighterion.coding.exercise.FibonacciSequence 
+	c. Will print an error message asking for a valid argument.
 	
-		- this will print an error message asking for a valid argument.
-		
+		java com.brighterion.coding.exercise.FibonacciSequence 
+	
