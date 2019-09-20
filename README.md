@@ -1,4 +1,4 @@
-# brighterion
+# Fibonacci Sequence
 
 A Fibonacci Sequence coding example.
 
