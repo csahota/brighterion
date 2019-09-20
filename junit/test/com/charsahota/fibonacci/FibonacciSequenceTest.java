@@ -1,8 +1,8 @@
-package test.com.brighterion.coding.exercise;
+package test.com.charsahota.fibonacci;
 
 import org.junit.Test;
 
-import com.brighterion.coding.exercise.FibonacciSequence;
+import com.charsahota.fibonacci.FibonacciSequence;
 
 /**
  * @author Char Sahota
