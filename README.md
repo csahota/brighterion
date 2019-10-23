@@ -8,13 +8,13 @@ How to run:
 
 	a. Will give a favorable result
 	
-		java com.brighterion.coding.exercise.FibonacciSequence 10
+		java com.charsahota.fibonacci.FibonacciSequence 10
 		
 	b. Will print an error message prompting to try again with a valid number
 	
-		java com.brighterion.coding.exercise.FibonacciSequence abc
+		java com.charsahota.fibonacci.FibonacciSequence abc
 		
 	c. Will print an error message asking for a valid argument.
 	
-		java com.brighterion.coding.exercise.FibonacciSequence 
+		java com.charsahota.fibonacci.FibonacciSequence 
 	
